@@ -1,8 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=gradient&customColorList=0,2,6,12,18)](https://github.com/AsemFared435)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=gradient&customColorList=0,2,6,12,18)](https://github.com/yourusername)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Specialist;Building+Tomorrow's+Intelligence;Open+Source+Contributor)](https://github.com/AsemFared435)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I+am+Asem+👋;Data+Analyst+%26+Data+Scientist;Transforming+Data+into+Insights;Machine+Learning+Engineer;Building+Intelligence+with+AI)](https://github.com/AsemFared435)
 
 </div>
 
@@ -17,34 +17,36 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
 ```python
-class DataScientist:
+class DataProfessional:
     def __init__(self):
-        self.name = "Asem Ahmed"
-        self.role = "AI & ML Engineer"
+        self.name = "Asem Fared"
+        self.role = "Data Analyst & Data Scientist"
         self.location = "Egypt 🇪🇬"
         self.education = "Faculty of AI"
         self.languages = ["Python", "SQL", "C++"]
         
     def current_focus(self):
         return [
-            "🧠 Advanced Deep Learning",
-            "👁️ Computer Vision Systems",
-            "🤖 NLP & LLMs",
-            "📊 MLOps & Production AI",
-            "🔬 Research & Innovation"
+            "📊 Data Analysis & Visualization",
+            "🧠 Machine Learning & AI",
+            "📈 Statistical Analysis & Insights",
+            "🤖 Predictive Modeling",
+            "💼 Business Intelligence Solutions"
         ]
     
     def philosophy(self):
-        return "Transform data into decisions, ideas into innovations"
+        return "Bridging the gap between data and decisions"
 
-me = DataScientist()
+me = DataProfessional()
 ```
 
-- 🔭 Currently building intelligent systems that solve real-world problems
-- 🌱 Exploring cutting-edge AI research and emerging technologies
-- 💡 Passionate about making AI accessible and impactful
-- 🎓 Continuous learner committed to excellence in every project
-- ⚡ **Fun fact**: I believe every dataset has a story waiting to be told
+- 📊 Experienced in **Data Analysis** - extracting meaningful insights from complex datasets
+- 🧠 Skilled **Data Scientist** - building predictive models and ML solutions
+- 🔭 Currently working on end-to-end data projects from analysis to deployment
+- 🌱 Exploring advanced analytics, AI, and emerging technologies
+- 💡 Passionate about turning data into actionable business insights
+- 🎓 Continuous learner committed to excellence in both analysis and science
+- ⚡ **Fun fact**: I speak two languages fluently - Data Analysis & Data Science!
 
 <br clear="right"/>
 
@@ -89,42 +91,17 @@ me = DataScientist()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AsemFared435&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AsemFared435&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsemFared435&theme=algolia" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=FAD59A&line=E9A319&point=A86523&area=true&area_color=E9A319" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsemFared435&theme=react-dark&hide_border=true&bg_color=0d1117&color=FAD59A&line=E9A319&point=A86523&area=true&area_color=E9A319" alt="Contribution Graph"/>
 </p>
-
----
-
-## 🎖️ Achievements & Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Stanford-red?style=for-the-badge" alt="ML Certificate"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-Coursera-blue?style=for-the-badge" alt="DL Certificate"/>
-  <img src="https://img.shields.io/badge/Data_Science-IBM-darkblue?style=for-the-badge" alt="DS Certificate"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|-------------|
-| 🎯 **AI Vision System** | Advanced computer vision solution for real-time object detection | PyTorch, OpenCV, YOLO |
-| 🤖 **NLP Chatbot** | Intelligent conversational AI with context understanding | Transformers, BERT, Flask |
-| 📊 **Predictive Analytics** | End-to-end ML pipeline for business forecasting | Scikit-learn, XGBoost, Docker |
-| 🧠 **Neural Network Framework** | Custom deep learning framework implementation | NumPy, Python, OOP |
-
-</div>
 
 ---
 
@@ -133,13 +110,13 @@ me = DataScientist()
 **🏫 Faculty of Artificial Intelligence** | *Menoufia University*
 - 📍 Location: Egypt
 - 🎯 Major: Data Science & AI
-- 🏆 Focus: Machine Learning, Deep Learning, Computer Vision,NLP
+- 🏆 Focus: Machine Learning, Deep Learning, Computer Vision
 
 **📚 Current Learning Goals**
-- ✅ Advanced Neural Network Architectures
-- ✅ Large Language Models (LLMs)
-- ✅ MLOps & Production Systems
-- ✅ Research Paper Implementation
+- ✅ Advanced Statistical Analysis & A/B Testing
+- ✅ Machine Learning Model Deployment
+- ✅ Big Data Technologies (Spark, Hadoop)
+- ✅ Advanced Data Visualization Techniques
 
 ---
 
@@ -165,10 +142,11 @@ me = DataScientist()
 ## 💼 Open to Opportunities
 
 I'm actively seeking opportunities in:
-- 🎯 **Machine Learning Engineering** positions
-- 🔬 **AI Research** collaborations
-- 🌍 **Open Source** contributions
-- 📊 **Data Science** consulting projects
+- 📊 **Data Analyst** positions - Business Intelligence & Analytics
+- 🧠 **Data Scientist** roles - Machine Learning & Predictive Modeling  
+- 🔬 **Analytics Consulting** projects
+- 🌍 **Data-Driven Solutions** for real business problems
+- 📈 **BI & Dashboard Development** opportunities
 
 **Want to collaborate?** Feel free to reach out! Let's build something amazing together.
 
@@ -186,6 +164,6 @@ I'm actively seeking opportunities in:
   
 **"The best way to predict the future is to create it"** - *Peter Drucker*
 
-⭐️ From [Your Name](https://github.com/AsemFared435) | Made with ❤️ and lots of ☕
+⭐️ From [Asem Fared](https://github.com/AsemFared435) | Made with ❤️ and lots of ☕
 
 </div>
