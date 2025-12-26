@@ -1,8 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=gradient&customColorList=0,2,6,12,18)](https://github.com/yourusername)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=gradient&customColorList=0,2,6,12,18)](https://github.com/AsemFared435)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Specialist;Building+Tomorrow's+Intelligence;Open+Source+Contributor)](https://github.com/yourusername)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+Specialist;Building+Tomorrow's+Intelligence;Open+Source+Contributor)](https://github.com/AsemFared435)
 
 </div>
 
